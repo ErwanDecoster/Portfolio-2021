@@ -1,0 +1,13 @@
+# Groupe 1
+User-agent: *
+Disallow: /resources/projects
+
+# Groupe 2
+User-agent: *
+Disallow: /resources/
+
+# Groupe 3
+User-agent: *
+Allow: /
+
+sitemap: https://erwan.pro/sitemap.xml

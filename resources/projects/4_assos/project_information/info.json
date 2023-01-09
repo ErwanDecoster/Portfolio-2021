@@ -1,0 +1,16 @@
+{
+  "site_info": {
+    "name": "Saint d'éco"
+    ,"creation_date": "20/21/2020"
+    ,"desciption": "prototype de site pour l'assosiation Saint d'éco, de protection de l'environnement, actuellement fermé"
+    ,"github_link": ""
+    ,"language_type":{
+
+      "html": true
+      ,"css": true
+      ,"js": false
+      ,"php": false
+      ,"sql": false
+    }
+  }
+}
